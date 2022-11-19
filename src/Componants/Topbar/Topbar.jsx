@@ -8,7 +8,7 @@ class TopBar extends Component {
             <div className='topbar'>
                 <div className='topbarwrapper'>
                     <div className='topleft'>
-                        <span className="logo">LamaaAdmin</span>
+                        <span className="logo">HossamAdmin</span>
                     </div>
                     <div className='topright'>
                         <div className="topBarIconContainer">
